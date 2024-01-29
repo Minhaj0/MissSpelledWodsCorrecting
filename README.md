@@ -1,1 +1,2 @@
 # MissSpelledWodsCorrecting
+This Project is to find corrrect word for generally misspelled word. The corpus is taken from Birkbeck spelling error corpus which contains misspelled words and correct words. We used MED (Minimum Edit Distance) to find the cost to convert one strig to another. You need to run Assignment1.py ad run each cell to reproduce the same results. Corpus file named as Brikbeck.txt is also included in this project.
